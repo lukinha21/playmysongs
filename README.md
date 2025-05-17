@@ -24,7 +24,6 @@ Acesse:
 http://localhost:8080
 
 📁 Estrutura do Projeto
-css
 playmysons/
 ├── src/
 │   ├── main/

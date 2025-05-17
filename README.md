@@ -1,4 +1,4 @@
-# 🎧 PlayMySons
+# 🎧 PlayMySongs
 
 Aplicativo web musical desenvolvido com Java e Spring Boot, com o objetivo de gerenciar playlists, faixas e usuários.
 

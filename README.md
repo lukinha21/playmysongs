@@ -14,8 +14,8 @@ Aplicativo web musical desenvolvido com Java e Spring Boot, com o objetivo de ge
 ## ⚙️ Como Executar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/playmysons.git
-   cd playmysons
+   git clone https://github.com/lukinha21/playmysongs.git
+   cd playmysongs
    
 Compile e rode:
 ./mvnw spring-boot:run
